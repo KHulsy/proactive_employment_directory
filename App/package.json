@@ -1,5 +1,4 @@
-
-{
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }{
   "name": "react-employee-directory",
   "version": "0.1.0",
   "private": true,

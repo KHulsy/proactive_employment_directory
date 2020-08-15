@@ -1,3 +1,21 @@
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+class MyHeader extends React.Component {
+  render() {
+    return (
+      <div>
+      <h1 style={{color: "red"}}>Hello, Milton!</h1>
+      <p> We're gonna need youn to come in on Saturday. Thaaanks! </p>
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(<MyHeader />, document.getElementById('root'));
+
+
 import 'core-js/es6/map';
 import 'core-js/es6/set';
 import 'raf/polyfill';

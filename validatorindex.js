@@ -7,7 +7,7 @@ class MyHeader extends React.Component {
     return (
       <div>
       <h1 style={{color: "red"}}>Hello, Milton!</h1>
-      <p> We're gonna need youn to come in on Saturday. Thaaanks! </p>
+      <p> We're gonna need you to come in on Saturday. Thaaanks! </p>
       </div>
     );
   }
